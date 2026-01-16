@@ -12,5 +12,5 @@ class Student:
 s1 = Student("Tommy",[91, 44, 83])
 s1.avg()
 
-s1.name = "Pappu"
+s1.name = "Shampoo"
 s1.avg()
